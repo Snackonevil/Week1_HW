@@ -31,7 +31,7 @@ The task was to 'clean up' the code by refactoring its elements and make it more
 THE WORK
 
 1) 
-The <link> and <title> tags in the <head> of the HTML doc were switched, addressing the page's title before pulling in the stylesheet.  The title itself was also changed from 'website' to 'Week 1 Homework.' In practice it would be named something like 'Horiseon.'
+The title was changed from 'website' to 'Week 1 Homework.' In practice it would be named something like 'Horiseon.'
 
 2)
 A <div> functioning as the header was changed to semantic element <header> element and its previous 'header' class was removed. The stylesheet was changed accordingly. '.seo' class was kept too, although it could have been identifed by its <span> tag instead of a class. Ex: header h1 span. For funsies, the logo was linked to go back to index.html.
